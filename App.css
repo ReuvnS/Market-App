@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  display: inherit;
+}
+
+.inline{
+  display:inline-block;
+}
+ .alignleft {
+  float: left;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.alignright {
+  float: right;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+
+p{
+  color: green;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#buyBtn{
+  padding: 5px;
+  font-weight: bold;
+  color: blueviolet;
+  background-color: greenyellow;
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#reu{
+font-size: 60px;
+font-family: fantasy;
+color: gray;
+}
