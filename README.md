@@ -1,2 +1,2 @@
 # Market-App
-React project
+Basic market app withe React class component.
